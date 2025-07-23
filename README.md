@@ -3,6 +3,7 @@ Project so that I can learn how to build an MCP server.
 
 # Config with UV on WSL
 Closing Claude Desktop and restarting device finally allowed the MCP server to become visible
+
 {
   "mcpServers": {
     "Demo": {
